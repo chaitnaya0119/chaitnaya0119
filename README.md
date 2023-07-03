@@ -1,4 +1,4 @@
-- 👋 Hi, I’m am chaitanya kottakota currently pursuing B.Tech 4th yeat in Mechanical Department.
+- 👋 Hi, I’m am chaitanya kottakota currently pursuing B.Tech 4th year in Mechanical Department.
 - 👀 I’m interested in the field of Data Science and looking for Dats Scientist role,Data Analyst role.
 - 🌱 I’m currently learning SQL, Data visualization with Python, Machine learning.
 - 🛠️ I have strong knowledge and hands on experience in Excel,Power BI,python.
