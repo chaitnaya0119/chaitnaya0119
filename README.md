@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm kottakota chaitanya</h1>
 <h3 align="center">A Data Enthusiast From INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
