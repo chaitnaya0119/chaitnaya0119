@@ -1,7 +1,7 @@
-[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)](https://rishavchanda.io)
+[![MasterHead](https://wallpapercave.com/wp/wp4748439.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm kottakota chaitanya</h1>
 <h3 align="center">A Data Enthusiast From INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning.**
 
