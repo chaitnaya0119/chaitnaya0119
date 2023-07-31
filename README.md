@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp4748439.jpg)](https://rishavchanda.io)
+[![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/Data-Science-Innovations.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm kottakota chaitanya</h1>
 <h3 align="center">A Data Enthusiast From INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
